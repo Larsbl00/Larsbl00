@@ -1,151 +1,23 @@
-<head>
-    <style>
-        *{
-            --theme-color: #1e88e5;
-            --background-color: rgba(0, 0, 0, 0.04);
-        }
-        img{
-            border-radius: 5px;
-        }
-        .projects{
-            display: flex;
-            justify-content: center;
-            flex-flow: row nowrap;
-        }
-        .projects>*{
-            text-decoration: none;
-        }
-        .card{
-            background-color: var(--background-color);
-            padding: rem;
-            margin: 1rem;
-            border-radius: 5px;
-            width: 33%;
-            /* background-color: red; */
-        }
-        .card .content{
-            padding: 1rem;
-        }
-        #contact{
-            width: 100%;
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: center;
-        }
-        .contact-list{
-            width: auto;
-            list-style-type: none;
-            display: flex;
-            flex-flow: row nowrap;
-            align-items: center;
-        }
-        .contact-item{
-            text-decoration: none;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-        .contact-item > a{
-            flex: 0 0 auto;
-            padding: 12px;
-            margin: 6px;
-            overflow: visible;
-            font-size: 1.5rem;
-            text-align: center;
-        }
-        .contact-item > a > i{
-            width: 100%;
-        }
-    </style>
+<h1 align="center">Hi 👋, I'm Lars Bloemers</h1>
+<h3 align="center">An embedded software engineer from the Netherlands, interested in robotics, embedded systems, and IoT.</h3>
 
-</head>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=larsbl00&label=Profile%20views&color=0e75b6&style=flat" alt="larsbl00" /> </p>
 
-# Hello There
-I am Lars Bloemers, an Embedded Software Engineer from the Netherlands, interested in robotics, embedded systems, and IoT. I have always been fascinated by technology as a kid. As an adult, I wish to explore the possibilities it has to offer. 
+- 👨‍💻 All of my projects are available at [https://larsbloemers.com](https://larsbloemers.com)
 
-If you have any questions/feedback about me or my work, feel free to [contact](#contact) me!
+- 📫 How to reach me **larsbloemers@gmail.com**
 
+- 📄 Know about my experiences [https://larsbloemers.com/doc/resume.pdf](https://larsbloemers.com/doc/resume.pdf)
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lars-bloemers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lars-bloemers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/larsbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="larsbl" height="30" width="40" /></a>
+</p>
 
-<!-- All project images must be 400x300 -->
-<section class="projects">
-    <a 
-        class="card" 
-        href="https://gitlab.com/Larsbl00/ros2-turtlebot-3-navigation" target="_blank"
-    >
-        <div >
-            <div class="thumbnail"><img src="img/ros2-navigation.webp"/></div> 
-            <div class="content">
-                <h2>ROS2 Navigation</h2>
-                <p>
-                    Using ROS 2, Turtlebot 3 and Navigation 2, we programmed a robot to drive from point to point without hitting any obstacles.
-                    When you are using the 2d GUI, you can mark points for the robot to travel between.
-                    These are then performed in the 3d simulation.        
-                </p>
-            </div>
-        </div>
-    </a>
-    <a  
-        class="card"
-        href="https://github.com/Larsbl00/OI3-ComputerVision" target="_blank"
-    >
-        <div>
-            <div class="thumbnail"><img src="img/lloid.webp"/></div> 
-            <div class="content">
-                <h2>L.L.O.I.D.</h2>
-                <p>             
-                    L.L.O.I.D. or otherwise known as the 'Locomotive Lidar Operated Interactive Drone', is an interactive autonomous robot.
-                    For this project, I was responsible for the facial recognition, so the robot knows where people are located.
-                </p>
-            </div>
-        </div>
-    </a>
-    <a  
-        class="card"
-        href="https://github.com/Larsbl00/MonsterBattle" 
-        target="_blank"
-    >
-        <div>
-            <div class="thumbnail"><img src="img/monster-battle.webp"/></div> 
-            <div class="content">
-                <h2>Monster Battle</h2>
-                <p>
-                    Monster Battle is a small turn-based game programmed to be displayed in the terminal.
-                    The project came to be, to familiarize myself more with modern C++.
-                </p>
-            </div>
-        </div>
-    </a>
-</section>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- Create a banner below the content with all contact icons -->
-<span id="contact">
-    <ul class="contact-list">
-        <li class="contact-item">
-            <a href="mailto:larsbloemers@gmail.com" target="_blank">  
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-            </a>
-        </li>
-        <li class="contact-item">
-            <a href="https://www.linkedin.com/in/lars-bloemers/" target="_blank">  
-                <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-            </a>
-        </li>
-        <li class="contact-item">
-            <a href="https://www.youtube.com/c/LarsBl" target="_blank">  
-                <i class="fa fa-youtube-play" aria-hidden="true"></i>
-            </a>
-        </li>
-        <li class="contact-item">
-            <a href="https://github.com/Larsbl00" target="_blank">  
-                <i class="fa fa-github" aria-hidden="true"></i>
-            </a>
-        </li>
-        <li class="contact-item">
-            <a href="https://gitlab.com/Larsbl00" target="_blank">  
-                <i class="fa fa-gitlab" aria-hidden="true"></i>
-            </a>
-        </li>
-    </ul>
-</span>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larsbl00&show_icons=true&locale=en&layout=compact" alt="larsbl00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larsbl00&show_icons=true&locale=en" alt="larsbl00" /></p>
