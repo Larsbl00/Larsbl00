@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **larsbloemers@gmail.com**
 
-- 📄 Know about my experiences [https://larsbloemers.com/doc/resume.pdf](https://larsbloemers.com/doc/resume.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/lars-bloemers](https://www.linkedin.com/in/lars-bloemers)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
