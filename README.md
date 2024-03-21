@@ -1,60 +1,3 @@
-<style type="text/css">
-.root {
-    --highlight-box-width: 800px;
-}
-
-.highlights~ul~ul {
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    max-width: 800px;
-}
-
-.highlights~ul>li {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 1rem;
-    width: (var(--highlight-box-width) - 3rem) / 3;
-    height: max-content;
-}
-
-.highlights~ul>li>iframe {
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.highlights~ul>li>a {
-    padding-top: 1rem;
-    font-weight: 700;
-    font-size: large;
-    color: inherit;
-}
-
-.highlights~ul>li>a::before {
-    content: "🔗";
-    margin-right: 0.5rem;
-}
-
-.highlights~ul>li>a:hover {
-    text-decoration: underline;
-}
-
-@media (max-width: 800px) {
-    .highlights~ul {
-        flex-direction: column;
-    }
-
-    .highlights~ul>li {
-        margin-bottom: 1rem;
-        width: auto;
-        height: 20vh;
-    }
-}
-</style>
-
 # Hi 👋, I'm Lars Bloemers
 
 ### An embedded software engineer from the Netherlands, interested in robotics, embedded systems, and IoT.
@@ -67,9 +10,6 @@
 ## Highlights
 
 Checkout some of my highlighted projects below:
-
-<span class="highlights">
-</span>
 
 - [![](https://img.youtube.com/vi/2buXAn24arg/hqdefault.jpg)](https://www.youtube.com/embed/2buXAn24arg?si=AaggNpbxF3_dw5jp)
 
