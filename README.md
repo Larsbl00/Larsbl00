@@ -11,15 +11,15 @@
 
 Checkout some of my highlighted projects below:
 
-- [![](https://img.youtube.com/vi/2buXAn24arg/hqdefault.jpg)](https://www.youtube.com/embed/2buXAn24arg?si=AaggNpbxF3_dw5jp)
+- [![](https://img.youtube.com/vi/2buXAn24arg/hqdefault.jpg)](https://www.youtube.com/watch?v=2buXAn24arg)
 
   [Terminal based 3D graphics engine in Rust](https://gitlab.com/Larsbl00/terminal-engine)
 
-- [![](https://img.youtube.com/vi/iSdhcRt2rGU/hqdefault.jpg)](https://www.youtube.com/embed/iSdhcRt2rGU?si=3LQtgzEac0nZM9nJ)
+- [![](https://img.youtube.com/vi/iSdhcRt2rGU/hqdefault.jpg)](https://www.youtube.com/watch?v=iSdhcRt2rGU)
 
   [Movie browser CLI tool using gRPC, Rust and Python](https://gitlab.com/Larsbl00/grpc-movie-rental-service)
 
-- [![](https://img.youtube.com/vi/lreSnJs2SpY/hqdefault.jpg)](https://www.youtube.com/embed/lreSnJs2SpY?si=qms3uuVQdumxrY3M)
+- [![](https://img.youtube.com/vi/lreSnJs2SpY/hqdefault.jpg)](https://www.youtube.com/watch?v=lreSnJs2SpY)
 
     [TF-agents Acrobot-V1 training time lapse](https://gitlab.com/Larsbl00/tfagents-acrobot)
 
