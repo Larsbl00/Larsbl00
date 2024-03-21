@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=larsbl00&label=Profile%20views&color=0e75b6&style=flat)
 
 - 📫 How to reach me: <larsbloemers@gmail.com>
-- 🔗 My website: <https://www.larsbloemers.com>
+- 🔗 My website: <https://larsbloemers.com>
 
 ## Highlights
 
