@@ -8,12 +8,7 @@ of what I am working on. Leading to a much high quality.
 
 ## Highlighted Projects
 
-I like to spend time to explore now concepts and technology
-through the use of smaller projects.
-This often means these projects have a narrow scope.
-Consequentially, I am much more focussed getting things into a working state
-compared to writing production code.
-
+I like to spend time to explore now concepts and technology through the use of smaller projects.
 Checkout some of my highlighted projects below:
 
 | | | |
