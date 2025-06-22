@@ -18,7 +18,7 @@ Checkout some of my highlighted projects below:
 
 | | | |
 | :- | :- | :- |
-| ![](./assets/projects/matched_enums.png){width=33%} | [![](https://img.youtube.com/vi/2buXAn24arg/hqdefault.jpg){width=33%}](https://www.youtube.com/watch?v=2buXAn24arg) | [![](https://img.youtube.com/vi/lreSnJs2SpY/hqdefault.jpg){width=33%}](https://www.youtube.com/watch?v=lreSnJs2SpY) |
+| [![](https://gitlab.com/Larsbl00/Larsbl00/-/raw/main/assets/projects/matched_enums.png?ref_type=heads)](https://crates.io/crates/matched_enums) | [![](https://img.youtube.com/vi/2buXAn24arg/hqdefault.jpg)](https://www.youtube.com/watch?v=2buXAn24arg) | [![](https://img.youtube.com/vi/lreSnJs2SpY/hqdefault.jpg)](https://www.youtube.com/watch?v=lreSnJs2SpY) |
 | [Matched Enums](https://gitlab.com/Larsbl00/rust-matched-enums) | [Terminal based 3D graphics engine in Rust](https://gitlab.com/Larsbl00/terminal-engine) | [TF-agents Acrobot-V1 training time lapse](https://gitlab.com/Larsbl00/tfagents-acrobot) |
 
 ## Contact
