@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866665 33.866668"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.0624288"
+     inkscape:cx="62.021347"
+     inkscape:cy="51.794423"
+     inkscape:window-width="2029"
+     inkscape:window-height="1401"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Chip Chassis"
+     transform="translate(-0.28012425,0.11266368)">
+    <g
+       id="g8"
+       inkscape:label="Pins (left)"
+       transform="matrix(1,0,0,0.97380588,0.28012425,0.39546786)"
+       style="display:inline">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect5"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="5.2364306"
+         inkscape:label="Pin3" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect6"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="12.185471"
+         inkscape:label="Pin2" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect7"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.09148"
+         y="26.083555"
+         inkscape:label="Pin1" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect8"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.1787663"
+         y="19.134514"
+         inkscape:label="Pin0" />
+    </g>
+    <g
+       id="g16"
+       inkscape:label="Pins (bottom)"
+       transform="matrix(0,1,-0.94584208,0,33.26272,26.153941)"
+       style="display:inline">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect13"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="5.2364306"
+         inkscape:label="Pin3" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect14"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="12.185471"
+         inkscape:label="Pin2" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect15"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.09148"
+         y="26.083555"
+         inkscape:label="Pin1" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect16"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.1787663"
+         y="19.134514"
+         inkscape:label="Pin0" />
+    </g>
+    <g
+       id="g20"
+       inkscape:label="Pins (right)"
+       transform="matrix(1,0,0,0.97380589,26.465999,0.39546769)"
+       style="display:inline">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect17"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="5.2364306"
+         inkscape:label="Pin3" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect18"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="12.185471"
+         inkscape:label="Pin2" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect19"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.09148"
+         y="26.083555"
+         inkscape:label="Pin1" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect20"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.1787663"
+         y="19.134514"
+         inkscape:label="Pin0" />
+    </g>
+    <g
+       id="g12"
+       inkscape:label="Pins (top)"
+       transform="matrix(0,1,-0.94584208,0,33.26272,-0.146179)"
+       style="display:inline">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect9"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="5.2364306"
+         inkscape:label="Pin3" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect10"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.135123"
+         y="12.185471"
+         inkscape:label="Pin2" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect11"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.09148"
+         y="26.083555"
+         inkscape:label="Pin1" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.222587"
+         id="rect12"
+         width="1.4264482"
+         height="2.4788661"
+         x="3.1787663"
+         y="19.134514"
+         inkscape:label="Pin0" />
+    </g>
+    <path
+       style="fill:#4f4f4f;fill-opacity:1;stroke-width:0.264583"
+       id="rect1"
+       width="25"
+       height="25"
+       x="4.7134576"
+       y="4.3206697"
+       inkscape:path-effect="#path-effect2"
+       sodipodi:type="rect"
+       d="M 5.7134576,4.3206697 H 28.713458 c 0.554,0 1,0.446 1,1 V 28.32067 c 0,0.554 -0.446,1 -1,1 H 5.7134576 c -0.554,0 -1,-0.446 -1,-1 V 5.3206697 c 0,-0.554 0.446,-1 1,-1 z"
+       rx="1"
+       ry="1"
+       inkscape:label="Background" />
+    <circle
+       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.264583"
+       id="path2"
+       cy="27.887955"
+       cx="28.149815"
+       inkscape:label="Dimple (bottom right)"
+       r="1.0474348" />
+    <circle
+       style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.264583"
+       id="path2-3"
+       cy="5.7308221"
+       cx="6.1699781"
+       inkscape:label="Dimple (top left)"
+       r="1.0474348" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6079px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#bfbfbf;fill-opacity:1;stroke-width:0.450163"
+       x="16.102257"
+       y="24.562565"
+       id="text3"
+       inkscape:label="Text"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6079px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono';text-align:center;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke-width:0.450163"
+         x="16.102257"
+         y="24.562565"
+         dx="0 -4.2535167">LB</tspan></text>
+  </g>
+</svg>
